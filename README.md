@@ -1,4 +1,5 @@
 ### Hi there 👋
+![download](https://github.com/verma8384/verma8384/assets/115211957/e8d025c8-2669-4a69-919f-84c9d3312e2f)
 
 <h1 align="center">Hi 👋, I'm Siddhartha Verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
