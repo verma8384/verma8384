@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-![images](https://github.com/verma8384/verma8384/assets/115211957/6cae192f-dc52-4ff2-a1eb-59534ad8d946)
 
 <h1 align="center">Hi 👋, I'm Siddhartha Verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-![1](https://github.com/verma8384/verma8384/assets/115211957/fcbb9f9e-ab41-451a-ae4c-656501b87d17)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=verma8384&label=Profile%20views&color=0e75b6&style=flat" alt="verma8384" /> </p>
