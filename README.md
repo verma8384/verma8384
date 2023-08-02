@@ -1,8 +1,10 @@
 ### Hi there 👋
-![download](https://github.com/verma8384/verma8384/assets/115211957/e8d025c8-2669-4a69-919f-84c9d3312e2f)
+
+![images](https://github.com/verma8384/verma8384/assets/115211957/6cae192f-dc52-4ff2-a1eb-59534ad8d946)
 
 <h1 align="center">Hi 👋, I'm Siddhartha Verma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>![download](https://github.com/verma8384/verma8384/assets/115211957/53df219a-2c7b-4e05-aded-1596507af177)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=verma8384&label=Profile%20views&color=0e75b6&style=flat" alt="verma8384" /> </p>
 
